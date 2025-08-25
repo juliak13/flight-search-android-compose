@@ -9,8 +9,5 @@ destination airports.
 ## Features
 - Users are able to favorite airports
 
-## Screenshots 
-![International Flight Search Screen](screenshot/app/International Search Query.png)
-
 ## Notes
 - This project was created as part of the officical Android Developer training program and a class project
