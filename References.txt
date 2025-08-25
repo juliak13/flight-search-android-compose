@@ -1,0 +1,13 @@
+Flight Search App
+Julia Konopka 
+
+Used this unit codelabs for creating the files and referenece the Inventory Tracking and Bus Schedule App. Along with previous homeworks as additional references. 
+ 
+Used Material Themes from previous homeworks and projects; Type.kt, Theme.kt, and Color.kt. (purple/pink theme)
+
+Used ChatGPT for debugging and problems.
+	Problems with dependencies and plugins. 
+
+Had to restart the app three times due to lack of information being displayed. Application now works. 
+
+Decided to prepopulate the flight_search.db with favorite flights. 
